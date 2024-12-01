@@ -415,7 +415,7 @@ label {
   
   /* Enlarge button on hover */
   .whatsapp-button a img:hover {
-    transform: scale(1.1); 
+    transform: scale(1.1);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); 
   }
   
