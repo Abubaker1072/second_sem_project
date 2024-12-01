@@ -12,10 +12,10 @@
           <a href="#" class="logo"><img src="/social media aserts and logo/logo.png" alt="Logo"></a>
           <nav class="nav-menu">
             <ul>
-              <li><a href="/main page/main.html">Home</a></li>
-              <li><a href="/destination page/des.html">Destinations</a></li>
-              <li><a href="/booking page/booking.html">Booking</a></li>
-              <li><a href="/signuppage/signup.html">Signup</a></li>
+              <li><a href="/main page/main.php">Home</a></li>
+              <li><a href="/destination page/des.php">Destinations</a></li>
+              <li><a href="/booking page/booking.php">Booking</a></li>
+              <li><a href="/signuppage/signup.php">Signup</a></li>
             </ul>
           </nav>
         </div>
@@ -79,12 +79,12 @@
             <div class="footer-column">
               <h3>Quick link</h3>
               <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="photographers.html">Destination</a></li>
-                <li><a href="booking.html">Booking</a></li>
-                <li><a href="signup.html">Signup</a></li>
-                <li><a href="/details/details.html">details</a></li>
-                <li><a href="term and codition.html">Terms&Condition</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="photographers.php">Destination</a></li>
+                <li><a href="booking.php">Booking</a></li>
+                <li><a href="signup.php">Signup</a></li>
+                <li><a href="/details/details.php">details</a></li>
+                <li><a href="term and codition.php">Terms&Condition</a></li>
               </ul>
             </div>
             <div class="footer-column">

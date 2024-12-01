@@ -17,10 +17,10 @@
       <a href="#" class="logo"><img src="/social media aserts and logo/logo.png" alt="Logo"></a>
       <nav class="nav-menu">
         <ul>
-          <li><a href="/main page/main.html">Home</a></li>
-          <li><a href="/destination page/des.html">Destinations</a></li>
-          <li><a href="/booking page/booking.html">Booking</a></li>
-          <li><a href="/signuppage/signup.html">Signup</a></li>
+          <li><a href="/main page/main.php">Home</a></li>
+          <li><a href="/destination page/des.php">Destinations</a></li>
+          <li><a href="/booking page/booking.php">Booking</a></li>
+          <li><a href="/signuppage/signup.php">Signup</a></li>
         </ul>
       </nav>
     </div>
@@ -31,7 +31,7 @@
     <div class="hero-content">
       <h1>GenerationXstudio</h1>
       <p>Capture your all memorable moments </p>
-      <a href="/destination page/des.html" class="btn">Explore Now</a>
+      <a href="/destination page/des.php" class="btn">Explore Now</a>
     </div>
   </section>
 
@@ -62,19 +62,19 @@
         <img src="/aserts/china.jpg" alt="Japan">
         <h5>Green Land</h5>
         <p>Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
       <div class="card">
         <img src="/aserts/banner.jpg" alt="Japan">
         <h5>Hamalia</h5>
         <p>Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
       <div class="card">
         <img src="/aserts/florenceitaly.jpg" alt="Japan">
         <h5>Turkey</h5>
         <p>Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
     </div>
   </section>
@@ -90,7 +90,7 @@
         <p class="para">Capturing real moments and natural reactions and aslo a best leader to lead <br>
         team and groups 
       <br>If you want to seen my work jusk Click Blow</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
       <div class="card">
         <img src="/aserts/21-1.jpg" alt="Abubaker">
@@ -98,7 +98,7 @@
         <p>Capturing real moments and natural reactions...Capturing real moments and natural reactions and aslo a best leader to lead <br>
           team and groups 
         <br>If you want to seen my work jusk Click Blow</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
       <div class="card">
         <img src="/aserts/Fashion-photography-poses-counterpose.jpeg" alt="Abubaker">
@@ -106,7 +106,7 @@
         <p>Capturing real moments and natural reactions and aslo a best leader to lead <br>
           team and groups 
         <br>If you want to seen my work jusk Click Blow</p>
-        <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+        <a href="/details/details.php" class="btn btn-outline-success">Details</a>
       </div>
     </div>
   </section>
@@ -156,7 +156,7 @@
         <div class="footer-links">
           <p id="linkpara" >
             <a href="#">Terms of Use</a> • <a href="#">Privacy Terms</a> •
-            <a href="/cookies/cookies.html">Cookies Policy</a> • <a href="#">Settings</a>
+            <a href="/cookies/cookies.php">Cookies Policy</a> • <a href="#">Settings</a>
           </p>
         </div>
       </div>
@@ -165,12 +165,12 @@
         <div class="footer-column">
           <h3>Quick link</h3>
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="photographers.html">Destination</a></li>
-            <li><a href="booking.html">Booking</a></li>
-            <li><a href="signup.html">Signup</a></li>
-            <li><a href="/details/details.html">details</a></li>
-            <li><a href="/terms&condition/term.html">Terms&Condition</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="photographers.php">Destination</a></li>
+            <li><a href="booking.php">Booking</a></li>
+            <li><a href="signup.php">Signup</a></li>
+            <li><a href="/details/details.php">details</a></li>
+            <li><a href="/terms&condition/term.php">Terms&Condition</a></li>
           </ul>
         </div>
         <div class="footer-column">

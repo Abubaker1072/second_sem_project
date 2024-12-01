@@ -17,10 +17,10 @@
       <a href="#" class="logo"><img src="/social media aserts and logo/logo.png" alt="Logo"></a>
       <nav class="nav-menu">
         <ul>
-          <li><a href="/main page/main.html">Home</a></li>
-          <li><a href="/destination page/des.html">Destinations</a></li>
-          <li><a href="/booking page/booking.html">Booking</a></li>
-          <li><a href="/signuppage/signup.html">Signup</a></li>
+          <li><a href="/main page/main.php">Home</a></li>
+          <li><a href="/destination page/des.php">Destinations</a></li>
+          <li><a href="/booking page/booking.php">Booking</a></li>
+          <li><a href="/signuppage/signup.php">Signup</a></li>
         </ul>
       </nav>
     </div>
@@ -30,7 +30,7 @@
   <section class="hero" style="background-image: url('/aserts/kyoto.jpg');">
     <div class="hero-content">
       <h1>DESTINATIONS</h1>
-      <a href="/destination page/des.html" class="btn">Explore Now</a>
+      <a href="/destination page/des.php" class="btn">Explore Now</a>
     </div>
   </section>
 
@@ -55,55 +55,55 @@
       <img src="/aserts/china.jpg" alt="Japan" >
       <h5>Chaina</h5>
       <p>chaina is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/banner.jpg" alt="Japan">
       <h5>NorthSite</h5>
       <p>Pakistan North is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/beijingchina.jpg" alt="Japan">
       <h5>Japan</h5>
       <p>Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/desthome.jpg" alt="Japan">
       <h5>desthome</h5>
       <p>This is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/download (2).jpeg" alt="Japan">
       <h5>London</h5>
       <p>London is good city to visit full of charming and lovling vibe. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/florenceitaly.jpg" alt="Japan">
       <h5>itly</h5>
       <p>Florenceitaly is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/greatwallofchina.jpg" alt="Japan">
       <h5>Green land</h5>
       <p>greenland is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/hiroshima.jpg" alt="Japan">
       <h5>Hiroshima</h5>
       <p>hiroshima is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
     <div class="card">
       <img src="/aserts/japanhome.jpg" alt="Japan">
       <h5>Japan</h5>
       <p>Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean...</p>
-      <a href="/details/details.html" class="btn btn-outline-success">Details</a>
+      <a href="/details/details.php" class="btn btn-outline-success">Details</a>
     </div>
 
   </div>
@@ -131,12 +131,12 @@
         <div class="footer-column">
           <h3>Quick link</h3>
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="photographers.html">Destination</a></li>
-            <li><a href="booking.html">Booking</a></li>
-            <li><a href="signup.html">Signup</a></li>
-            <li><a href="/details/details.html">details</a></li>
-            <li><a href="term and codition.html">Terms&Condition</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="photographers.php">Destination</a></li>
+            <li><a href="booking.php">Booking</a></li>
+            <li><a href="signup.php">Signup</a></li>
+            <li><a href="/details/details.php">details</a></li>
+            <li><a href="term and codition.php">Terms&Condition</a></li>
           </ul>
         </div>
         <div class="footer-column">

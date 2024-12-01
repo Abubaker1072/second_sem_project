@@ -12,10 +12,10 @@
           <a href="#" class="logo"><img src="/social media aserts and logo/logo.png" alt="Logo"></a>
           <nav class="nav-menu">
             <ul>
-              <li><a href="/main page/main.html">Home</a></li>
-              <li><a href="/destination page/des.html">Destinations</a></li>
-              <li><a href="/booking page/booking.html">Booking</a></li>
-              <li><a href="/signuppage/signup.html">Signup</a></li>
+              <li><a href="/main page/main.php">Home</a></li>
+              <li><a href="/destination page/des.php">Destinations</a></li>
+              <li><a href="/booking page/booking.php">Booking</a></li>
+              <li><a href="/signuppage/signup.php">Signup</a></li>
             </ul>
           </nav>
         </div>
@@ -38,7 +38,7 @@
               <li>2days</li>
               <li>Rides</li>
               <li>Lunch/dinner</li>
-              <li class="grey"><a href="/booking page/booking.html" class="button">Book Now</a></li>
+              <li class="grey"><a href="/booking page/booking.php" class="button">Book Now</a></li>
               <li><input type="checkbox" name="" id="">Verify it</li>
             </ul>
           </div>
@@ -50,7 +50,7 @@
               <li>4days</li>
               <li>Rides Activities</li>
               <li>Breakfast/lunch/dinner</li>
-              <li class="grey"><a href="/booking page/booking.html" class="button">Book Now</a></li>
+              <li class="grey"><a href="/booking page/booking.php" class="button">Book Now</a></li>
               <li><input type="checkbox" name="" id="">Verify it</li>
             </ul>
           </div>
@@ -63,7 +63,7 @@
           <li>6 days</li>
           <li>activites +no extra xharges</li>
           <li>Breaskfast/lunch/dinner/snacks</li>
-          <li class="grey" ><a href="/booking page/booking.html" class="button">Book Now</a></li>
+          <li class="grey" ><a href="/booking page/booking.php" class="button">Book Now</a></li>
           <li><input type="checkbox" name="" id="">Verify it</li>
         </ul>
         </div>
@@ -93,7 +93,7 @@
                     <td>SAM</td>
                     <td>FIRST 5 DAYS OF MONTH</td>
                     <td>$50</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>75%</td>
                     <td><a href="">Portfolio Link</a></td>
                 </tr>
@@ -101,7 +101,7 @@
                     <td>mike</td>
                     <td>5-10 days</td>
                     <td>$60</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>80%</td>
                     <td><a href="">Portfolio Link</a></td>
                 </tr>
@@ -109,7 +109,7 @@
                     <td>Robien</td>
                     <td>10-15 days</td>
                     <td>$55</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>90%</td>
                     <td><a href="">Portfolio Link</a></td>
                 </tr>
@@ -117,7 +117,7 @@
                     <td>stefon</td>
                     <td>15 -20 days</td>
                     <td>$65</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>85%</td>
                     <td><a href="#">Portfolio Link</a></td>
                 </tr>
@@ -125,7 +125,7 @@
                     <td>Michael Brown</td>
                     <td>20-30 days</td>
                     <td>$70</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>95%</td>
                     <td><a href="#">Portfolio Link</a></td>
                 </tr>
@@ -133,7 +133,7 @@
                     <td>Emily</td>
                     <td>not avalible</td>
                     <td>$75</td>
-                    <td><a href="/booking page/booking.html">View Plan</a></td>
+                    <td><a href="/booking page/booking.php">View Plan</a></td>
                     <td>100%</td>
                     <td><a href="#">Portfolio Link</a></td>
                 </tr>
@@ -233,12 +233,12 @@
             <div class="footer-column">
               <h3>Quick link</h3>
               <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="photographers.html">Destination</a></li>
-                <li><a href="booking.html">Booking</a></li>
-                <li><a href="signup.html">Signup</a></li>
-                <li><a href="signup.html">detail</a></li>
-                <li><a href="term and codition.html">Terms&Condition</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="photographers.php">Destination</a></li>
+                <li><a href="booking.php">Booking</a></li>
+                <li><a href="signup.php">Signup</a></li>
+                <li><a href="signup.php">detail</a></li>
+                <li><a href="term and codition.php">Terms&Condition</a></li>
               </ul>
             </div>
             <div class="footer-column">
